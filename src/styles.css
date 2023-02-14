@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Itim&family=Julee&family=Patrick+Hand&display=swap");
+
+body {
+  font-family: "Julee", cursive;
+  background: #e2c275;
+}
+
+.box {
+  max-width: 700px;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+  background: #eadca6;
+}
+
+.croissants {
+  max-width: 600px;
+}
